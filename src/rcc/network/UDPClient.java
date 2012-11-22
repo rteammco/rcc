@@ -29,7 +29,7 @@ public class UDPClient extends Thread {
     //Create the class (CONSTRUCTOR):
     public UDPClient(Screen screen){
         this.screen = screen;
-        lasterr = "Zomg it blew uP!";
+        lasterr = "It blew up!";
         active = false;
         sourceKnown = false;
     }
