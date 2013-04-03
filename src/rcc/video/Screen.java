@@ -43,10 +43,7 @@ public class Screen extends JPanel{
         
         this.settings = settings;
         
-        /* set up the first image (oh my god)
-         * Because you probably want a .jar file in the end,
-         * and/or if you're doing this in an IDE, god help
-         * you... and do the following:
+        /* Instructions for loading an image from a file in Netbeans:
          * 
          * Steps:
          * 1) Create a folder called "resources" in the main
